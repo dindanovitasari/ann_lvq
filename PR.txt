@@ -1,0 +1,8 @@
+1. ukur jumlah cluster 7,6,5,4
+2. iterasi 5,10,15,20,25,50,100 liat grafik 
+sampai iterasi brp berubah
+3. alpha dinamik dan statik
+
+kombinasi
+dinamik
+statik

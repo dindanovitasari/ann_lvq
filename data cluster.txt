@@ -1,0 +1,58 @@
+5 cluster
+
+Iterasi 3
+1	b1,e1,b2,		
+2	d1,c2,k2,b3,c3,d3	
+3	j1,k1,j2,e3,j3,k3	
+4	c1,a3 			
+5	a1,a2,d2,e2 
+
+Iterasi 20
+1	b1,e1,b2,d2,e2		
+2	d1,c2,k2,b3,c3,d3	
+3	j1,k1,j2,e3,j3,k3
+4	c1 			
+5	a1,a2,a3
+
+Iterasi 40
+1	b1,e1,b2,d2,e2		
+2	d1,c2,k2,b3,c3,d3
+3	j1,k1,j2,e3,j3,k3
+4	c1 			
+5	a1,a2,a3
+
+Iterasi 100
+1	b1,e1,b2,d2,e2		
+2	d1,c2,k2,b3,c3,d3
+3	j1,k1,j2,e3,j3,k3
+4	c1 			
+5	a1,a2,a3
+
+Iterasi 100
+1	b1,b2,d2,e2,e1		
+2	b3,c2,c3,d1,d3,k2
+3	e3,j1,j2,j3,k3,k1
+4	c1 			
+5	a1,a2,a3
+
+
+
+7 cluster
+
+10 Iterasi
+1	b1,e1,b2,d2,e2
+2	d1,c2,k2,b3,c3,d3
+3	j3
+4	c1
+5	a3
+6	
+7	a1,j1,k1,a2,j2,k3,e3
+
+40 Iterasi
+1	b1,e1,b2,d2,e2,
+2	d1,c2,k2,b3,c3,d3
+3	j3
+4	c1
+5	a3
+6	
+7	a1,j1,k1,a2,j2,e3,k3
